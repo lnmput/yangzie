@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/tool', 'FetchImages@index');
+
+Route::group(['prefix' => 'dialog'], function () {
+    Route::get('favarateSite', 'Dialogs@favarateSite')->name('dialog.favarateSite');
+});
