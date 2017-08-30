@@ -36,7 +36,7 @@
 
             .title {
                 font-size: 84px;
-                letter-spacing: 22px;
+                letter-spacing: 18px;
             }
 
             .links > a {
@@ -65,7 +65,7 @@
                     为了看上去毫不费力
                 </div>
                 <div class="links">
-                    <a href="">图片采集</a>
+                    <a href="{{ route('tool.fetchimages') }}">图片采集</a>
                     <a href="">Laracasts</a>
                 </div>
             </div>

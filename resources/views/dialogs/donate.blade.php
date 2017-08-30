@@ -2,7 +2,7 @@
     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
         <span aria-hidden="true">&times;</span>
     </button>
-    <h4 class="modal-title">您的慷慨会使我们变得更加美好...</h4>
+    <h4 class="modal-title">您的慷慨会使我们的服务器跑的像火箭一样快...</h4>
 </div>
 <div class="modal-body">
     <div class="row">

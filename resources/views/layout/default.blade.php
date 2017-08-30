@@ -18,5 +18,6 @@
     @yield('content')
 </div>
 @include('common.footer')
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 </body>
 </html>
