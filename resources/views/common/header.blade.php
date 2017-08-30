@@ -8,7 +8,9 @@
                 <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">捐赠</a></li>
+                <li><a href="#">star</a></li>
+                <li><a href="javascript:;" class="dialog-trigger" data-modal-size="lg"
+                       data-remote-url="{{route('dialog.donate') }}">捐赠</a></li>
                 <li>
                     <a href="javascript:;" class="dialog-trigger" data-modal-size="sm"
                        data-remote-url="{{route('dialog.favarateSite') }}">收藏网址</a>

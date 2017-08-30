@@ -10,4 +10,9 @@ class Dialogs extends Controller
     {
         return view('dialogs.favarateSite');
     }
+
+    public function donate()
+    {
+        return view('dialogs.donate');
+    }
 }
