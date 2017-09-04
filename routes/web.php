@@ -16,9 +16,9 @@ Route::get('/', function () {
 });
 
 
-
 Route::group(['prefix' => 'tools'], function () {
     Route::get('/fetchimages', 'FetchImages@index')->name('tool.fetchimages');
+    Route::post('/fetch', 'FetchImages@fetch')->name('tool.fetch');
 });
 
 Route::group(['prefix' => 'dialog'], function () {

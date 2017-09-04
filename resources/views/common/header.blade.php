@@ -5,7 +5,7 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+                <li class="active"><a href="#">OK! <span class="sr-only">(current)</span></a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
@@ -18,9 +18,8 @@
                 </li>
                 <li>
                     <a href="//shang.qq.com/wpa/qunwpa?idkey=24d0869e94d39af16ee79c62b3435bc59a0152aaffd8973b21a6ddb1092d18b9"
-                       target="_blank" data-toggle="tooltip" data-placement="bottom" title="点击或者直接加QQ群:599325939">技术交流</a>
+                       target="_blank" data-toggle="tooltip" data-placement="bottom" title="点击或者直接加QQ群:599325939"></a>
                 </li>
-
             </ul>
         </div>
     </div>

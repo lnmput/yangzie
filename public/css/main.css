@@ -2,6 +2,11 @@
     text-align: center;
     position: absolute;
 }
-li iframe {
+
+/*fetch image*/
+.input-custom  {
+    padding-top: 150px;
+}
+iframe {
     margin-top: 13px;
 }
